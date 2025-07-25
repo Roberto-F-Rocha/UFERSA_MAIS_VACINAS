@@ -1,4 +1,4 @@
-# UFERSA-VACINA
+# UFERSA-MAIS-VACINA
 
 ## Visão Geral
 
@@ -52,3 +52,28 @@ O sistema criará automaticamente os arquivos `entrada.txt` e `entrada_pessoa.tx
 ## Instituição
 
 - Universidade Federal Rural do Semi-árido (UFERSA)
+
+```
+                     .--.  .--.                               
+                    /    \/    \                             
+                   | .-.  .-.   \                            
+                   |/_  |/_  |   \                           
+                   || `\|| `\|    `----.                     
+                   |\0_/ \0_/    --,    \                   
+ .--MMMMM-.       /              (` \     `-.               
+/          \-----'-.              \          \             
+\  () ()                         /`\          \            
+|                         .___.-'   |          \           
+\                        /` \|      /         \           
+ `-.___             ___.\' .-.`.---.|             \        
+    \| ``-..___,.-'`\| / /   /     |              `\      
+     `      \|      ,`/ /   /   ,  /                      
+             `      |\ /   /    |\/                       
+              ,   .'`-;   '     \/                        
+         ,    |\-'  .'   ,   .-'                          
+      .-|\--;`` .-'     |\.'                              
+      ( ` '-.|\ (___,.--''                                
+     `-.    ` `          _.--' \                          
+          `.          _.-'`-.\\                          
+            `''---''``       `. \                         
+```
